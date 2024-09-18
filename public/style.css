@@ -56,8 +56,8 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #f6f6f6;
-  width: 390px;
-  height: 500px;
+  width: 350px;
+  height: 450px;
   overflow-y: scroll;
   overflow-x: hidden;
 }
